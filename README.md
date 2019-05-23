@@ -1,3 +1,3 @@
 # CNN.Face.Recognition
 
-Use MATLAB convolutional neural net and webcam to recognize faces
+Use MATLAB convolutional neural network and webcam to recognize faces
